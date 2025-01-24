@@ -5,11 +5,11 @@
 </h1>
 
 <p align="center" style="font-size: 20px;">
-  Welcome to my GitHub profile! 🌟  
+  Welcome to my GitHub profile!  
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBpNmtrdGh1aTJ6dGYzYXY3Mmd0dmwxZ3R6eGx4cHkxbHExdDVicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WMurp959RLW0d6pVLP/giphy.gif" width="300px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBpNmtrdGh1aTJ6dGYzYXY3Mmd0dmwxZ3R6eGx4cHkxbHExdDVicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WMurp959RLW0d6pVLP/giphy.gif" width="600px">
 </p>
 
 ## 🛠️ Skills
