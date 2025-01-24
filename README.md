@@ -16,10 +16,9 @@ Here are some of the technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaggG93&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaggG93&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
