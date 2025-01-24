@@ -7,8 +7,8 @@
 </div>
 
 ## 📋 About Me
-Hi, I'm Magg, a web developer in progress. I'm currently finishing my studies in this field. 
-Outside of coding, I'm a big fan of stories, whether through a book, writing, or video games. 
+Hi, I'm Magg, a web developer in progress. I'm currently finishing my studies in this field. <br>
+Outside of coding, I'm a big fan of stories, whether through a book, writing, or video games. <br>
 Thanks for visiting my profile! 🚀
 
 ---
