@@ -1,8 +1,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there! I'm Magg</h3>
 
-
 ## 🛠️ Skills
-
 Here are some of the technologies I work with:
 
 ### Programming Languages
@@ -17,18 +15,14 @@ Here are some of the technologies I work with:
 
 ---
 
-
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaggG93&show_icons=true&theme=tokyonight)
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api](https://github-readme-stats.vercel.app/api)?username=MaggG93&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🤝 Contact
-
 Feel free to reach out to me through the following channels:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguea.gonzalez1993@gmail.com)
