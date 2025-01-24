@@ -1,15 +1,16 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> 
-  Hey there! I'm <span style="color:#FF6EC7;">Magg</span> 
+  Hello! I'm <span style="color:#FF6EC7;">Magg</span> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </h1>
 
-<p align="center" style="font-size: 20px;">
-  Welcome to my GitHub profile!  
+<p align="center" style="font-size: 22px; font-weight: bold;">
+  Welcome to my corner of the digital universe! 🌌  
+  Explore my world of <span style="color:#FF6EC7;">development</span> and <span style="color:#00D1FF;">creativity</span>. 🚀
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5ibjhtaWwybHM0MG5oaTE5aXZsc3ZyamVldGcyd21iczRwZW13NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzRxjXf0AOx626owJz/giphy.gif" width="600px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5ibjhtaWwybHM0MG5oaTE5aXZsc3ZyamVldGcyd21iczRwZW13NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzRxjXf0AOx626owJz/giphy.gif" width="800px" height="400px" style="border-radius: 15px;" alt="Developer at Work">
 </p>
 
 ## 🛠️ Skills
