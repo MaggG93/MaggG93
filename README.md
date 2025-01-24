@@ -23,7 +23,7 @@ Here are some of the technologies I work with:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Other Tools and Technologies
-<div align="center" style="display: flex; gap: 20px;">
+<div align="center" style="display: flex; justify-content: left; gap: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
 </div>
