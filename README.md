@@ -1,4 +1,17 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there! I'm Magg</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> 
+  Hey there! I'm <span style="color:#FF6EC7;">Magg</span> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</h1>
+
+<p align="center" style="font-size: 20px;">
+  Welcome to my GitHub profile! 🌟  
+  I'm a passionate <b>developer</b> who loves turning ideas into reality through <i>code</i>. 🚀  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
+</p>
 
 ## 🛠️ Skills
 Here are some of the technologies I work with:
