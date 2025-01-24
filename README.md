@@ -18,7 +18,14 @@ Here are some of the technologies I work with:
 ---
 
 
+### Personalization
+1. Replace **`[Your Name or GitHub Username]`** with your name or GitHub username.  
+2. Update **`YOUR_USERNAME`** in the GitHub stats section with your GitHub username.  
+3. Replace links, project details, and other placeholders with your own information.  
 
+If you need further adjustments, let me know! 😊
+
+---
 
 ## 🤝 Contact
 
