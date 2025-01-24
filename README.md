@@ -1,8 +1,17 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> 
-  Hello! I'm <span style="color:#FF6EC7;">Magg</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <span style="color:#FF6EC7; font-family: 'Courier New', monospace;">Hello!</span> 
 </h1>
+
+<p align="center" style="font-size: 22px; font-family: 'Courier New', monospace;">
+  <span style="color:#FF6EC7;">I’m <b>Magg</b>,</span> 
+  <span style="color:#00D1FF;">a passionate developer</span> 
+  <span style="color:#00FFAA;">bringing ideas to life with code</span>.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800px" alt="Developer Animation">
+</p>
 
 <p align="center" style="font-size: 22px; font-weight: bold;">
   Welcome to my corner of the digital universe! 🌌  
