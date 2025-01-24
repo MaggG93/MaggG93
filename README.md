@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&height=60&lines=Hello+there!+I'm+Magg.;A+passionate+developer+and+creator.;Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 </div>
 
 <p align="center">
