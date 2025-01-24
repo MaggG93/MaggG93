@@ -9,7 +9,9 @@
 ## 📋 About Me
 Hi, I'm Magg, a web developer in progress. I'm currently finishing my studies in this field. 
 Outside of coding, I'm a big fan of stories, whether through a book, writing, or video games. 
-Thanks for visiting my profile!🚀
+Thanks for visiting my profile! 🚀
+
+---
 
 ## 🛠️ Skills
 Here are some of the technologies I work with:
