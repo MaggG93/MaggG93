@@ -6,7 +6,7 @@
 
 <p align="center" style="font-size: 22px; font-weight: bold;">
   Welcome to my corner of the digital universe! 🌌  
-  Explore my world of <span style="color:#FF6EC7;">development</span> and <span style="color:#00D1FF;">creativity</span>. 🚀
+  Explore my process in <span style="color:#FF6EC7;">development</span> and <span style="color:#00D1FF;">creativity</span>. 🚀
 </p>
 
 <p align="center">
