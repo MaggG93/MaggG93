@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBpNmtrdGh1aTJ6dGYzYXY3Mmd0dmwxZ3R6eGx4cHkxbHExdDVicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WMurp959RLW0d6pVLP/giphy.gif" width="600px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBpNmtrdGh1aTJ6dGYzYXY3Mmd0dmwxZ3R6eGx4cHkxbHExdDVicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WMurp959RLW0d6pVLP/giphy.gif" width="600px" max-height="300">
 </p>
 
 ## 🛠️ Skills
