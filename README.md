@@ -3,14 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 </div>
 
-<p align="center" style="font-size: 20px; font-family: Arial, sans-serif;">
-  Dive into my world of <span style="color:#C084FC; font-weight: bold;">code</span>, <span style="color:#C084FC; font-weight: bold;">creativity</span>, and <span style="color:#C084FC; font-weight: bold;">innovation</span>. Let’s build something amazing together!
-</p>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5ibjhtaWwybHM0MG5oaTE5aXZsc3ZyamVldGcyd21iczRwZW13NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzRxjXf0AOx626owJz/giphy.gif" width="800px" height="400px" style="border-radius: 15px;" alt="Developer GIF">
-</p>
-
 ## 📋 About Me
 
 
