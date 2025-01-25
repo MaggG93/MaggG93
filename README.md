@@ -40,6 +40,9 @@ Here are some of the technologies I work with:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaggG93&repo=memoery-game&theme=tokyonight)](https://github.com/MaggG93/memoery-game)
+
+
 ---
 
 ## 🤝 Contact
