@@ -31,9 +31,11 @@ Here are some of the technologies I work with:
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</div>
+</div> <br>
 
-<div>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaggG93&repo=memory-game&theme=tokyonight)](https://github.com/MaggG93/memory-game)</div>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaggG93&repo=memory-game&theme=tokyonight)](https://github.com/MaggG93/memory-game)
+
+
 ---
 
 ## 📊 GitHub Stats
