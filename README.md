@@ -35,14 +35,12 @@ Here are some of the technologies I work with:
 
 ### Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaggG93&repo=memory-game&theme=tokyonight)](https://github.com/MaggG93/memory-game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaggG93&repo=contact-manager-python&theme=tokyonight)](https://github.com/MaggG93/contact-manager-python)
-
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaggG93&show_icons=true&theme=tokyonight)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)
 
 
 ---
