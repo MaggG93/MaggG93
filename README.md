@@ -40,7 +40,7 @@ Here are some of the technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-![](https://komarev.com/ghpvc/?username=MaggG93&color=blue&style=flat-square)
+[![GitHub Skyline](https://github.com/MaggG93/skyline/blob/main/github-skyline.svg)](https://skyline.github.com/MaggG93)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)
 
 
