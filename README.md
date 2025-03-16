@@ -53,5 +53,6 @@ Feel free to reach out to me through the following channels:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-a-gonzalez-gomez/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22679056)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/magg4716)
+<br>
 ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=121212&border_color=121212)
 
