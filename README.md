@@ -56,7 +56,7 @@ Feel free to reach out to me through the following channels:
 
 ---
 
-<p align="right">
+<p align="center">
   <img src="https://novatorem.vercel.app/api/spotify?background_color=0d11172&border_color=0d1117&">
 </p>
 
