@@ -40,7 +40,7 @@ Here are some of the technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-![Contributions](https://github-contributor-stats.vercel.app/api?username=MaggG93&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MaggG93&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)
 
 
