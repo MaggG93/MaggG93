@@ -40,7 +40,7 @@ Here are some of the technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaggG93&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MaggG93&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaggG93&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)
 
