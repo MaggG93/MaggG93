@@ -40,7 +40,7 @@ Here are some of the technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Skyline](https://github.com/MaggG93/skyline/blob/main/github-skyline.svg)](https://skyline.github.com/MaggG93)
+[![GitHub Latest Repos](https://github-readme-stats.vercel.app/api/?username=MaggG93&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/MaggG93?tab=repositories)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)
 
 
