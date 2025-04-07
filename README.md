@@ -3,6 +3,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=MaggG93&color=blueviolet&style=flat-square" />
+![Profile Views](https://komarev.com/ghpvc/?username=MaggG93&color=blueviolet&style=flat-square)
 
 <div align="center">
   <!-- Contador de visitas -->
