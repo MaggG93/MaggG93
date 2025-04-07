@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?..." />
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MaggG93&color=blueviolet&style=flat-square)
+
 <div align="center">
   <!-- Contador de visitas -->
   ![Profile Views](https://komarev.com/ghpvc/?username=MaggG93&color=blueviolet&style=flat-square)
