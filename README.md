@@ -53,8 +53,6 @@ Feel free to reach out to me through the following channels:
 ---
 
 <p align="center">
-  [![Spotify Album](https://spotify-widget.vercel.app/api/album?album=3732cNzlVyYebr3KQ4Hr3Q)](https://open.spotify.com/album/3732cNzlVyYebr3KQ4Hr3Q)
-
   <img src="https://novatorem.vercel.app/api/spotify?background_color=0d11172&border_color=0d1117&spotify_id=2bNsTC3HLNfPXPqN3bEGhc">
 </p>
 
