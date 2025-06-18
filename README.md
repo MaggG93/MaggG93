@@ -41,8 +41,6 @@ Here are some of the technologies I work with, organized by area of development:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)
 
-![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=MaggG93&theme=tokyonight)
-
 ---
 
 ## 🤝 Contact
