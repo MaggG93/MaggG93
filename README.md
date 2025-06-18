@@ -37,7 +37,6 @@ Here are some of the technologies I work with, organized by area of development:
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats-mu-pearl.vercel.app/api?username=MaggG93&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/MaggG93)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggG93&layout=compact&theme=tokyonight)
 
 ---
