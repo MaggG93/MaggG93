@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MaggG93&color=blueviolet&style=flat-square)
 
 ## 📋 About Me
-Hi, I'm Magg, a web developer in progress. I'm currently finishing my studies in this field. <br>
+Hi, I'm Magg, a software developer. I finished my studies in this field. <br>
 Outside of coding, I'm a big fan of stories, whether through a book, writing, or video games. <br>
 Thanks for visiting my profile! 📚🖊️🎮
 
