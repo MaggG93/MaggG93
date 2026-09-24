@@ -4,7 +4,7 @@
 
 Software developer.
 
-[![Email]](mailto:miguea.gonzalez1993@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-a-gonzalez-gomez/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/magg4716)
+[LinkedIn](https://www.linkedin.com/in/miguel-a-gonzalez-gomez/) · [Email](mailto:miguea.gonzalez1993@gmail.com) · [Discord](https://discord.com/users/magg4716)
 
 ---
 
