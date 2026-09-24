@@ -4,7 +4,11 @@
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/miguel-a-gonzalez-gomez/) · [Email](mailto:miguea.gonzalez1993@gmail.com) · [Discord](https://discord.com/users/magg4716)
+<div align="right">
+  <a href="https://www.linkedin.com/in/miguel-a-gonzalez-gomez/">LinkedIn</a> ·
+  <a href="mailto:miguea.gonzalez1993@gmail.com">Email</a> ·
+  <a href="https://discord.com/users/magg4716">Discord</a>
+</div>
 
 
 
