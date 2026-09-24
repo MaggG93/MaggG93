@@ -8,19 +8,3 @@ Software developer.
 
 ---
 
-### Currently
-
-Learning Python & Artificial Intelligence  
-Working with Angular  
-Exploring Docker & Kubernetes
-
-### Technologies
-
-→ [Artificial Intelligence Models](...)  
-→ [Angular](...)  
-→ [Python](...)  
-→ [Docker & Kubernetes](...)
-
----
-
-© 2026 Magg
