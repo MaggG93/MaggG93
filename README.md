@@ -6,7 +6,6 @@
 
 <div align="right">
   <a href="https://www.linkedin.com/in/miguel-a-gonzalez-gomez/">LinkedIn</a> ·
-  <a href="mailto:miguea.gonzalez1993@gmail.com">Email</a> ·
   <a href="https://discord.com/users/magg4716">Discord</a>
 </div>
 
